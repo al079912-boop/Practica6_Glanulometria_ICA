@@ -1,6 +1,6 @@
 # Análisis Granulométrico Automatizado con Python
 
-Práctica 5 – Modelado de Problemas en Ingeniería Civil
+Práctica 6 – Modelado de Problemas en Ingeniería Civil
 
 # 📘 Descripción del Proyecto
 
